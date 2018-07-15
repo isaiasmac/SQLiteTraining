@@ -1,0 +1,6 @@
+framework module SQift {
+  umbrella header "SQift-umbrella.h"
+
+  export *
+  module * { export * }
+}
